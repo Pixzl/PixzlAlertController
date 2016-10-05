@@ -1,6 +1,8 @@
 ![PixzlAlertController](pixzlalertcontroller-logo.png)
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](LICENSE)
+![Platform](https://img.shields.io/cocoapods/p/TSMessages.svg?style=flat)
+
 
 An easy way to use an alert view or an action sheet on controller and window. 
 
